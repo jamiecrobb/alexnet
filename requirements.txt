@@ -7,3 +7,4 @@ torchvision==0.16.2
 
 # Utilities
 matplotlib==3.8.2
+git+https://github.com/jamiecrobb/liveloss

@@ -3,7 +3,6 @@ from torchvision.datasets import CIFAR10
 from torch.utils.data import DataLoader
 
 import os
-from setup import project_root
 
 def get_cifar10_loaders(batch_size=16, data_path=None):
     """
